@@ -1,3 +1,7 @@
+Version Hardware: https://github.com/EloiStree/XESP32
+
+--------
+
 # XOMI                                                                                          
 XOmi is a small tool that listen to UDP message to execute Xbox commands.  
   
